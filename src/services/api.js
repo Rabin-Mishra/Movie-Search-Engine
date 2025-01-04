@@ -1,4 +1,4 @@
-const API_KEY = "f012dd656e0462a0f8832fd99b719742";
+const API_KEY = "Use your own api here";
 const BASE_URL = "https://api.themoviedb.org/3";
 
 //means that the async is asynchronous and its gonna take a a second before we get the result
